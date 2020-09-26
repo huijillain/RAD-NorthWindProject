@@ -1,0 +1,24 @@
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\bin\Debug\northwnd.mdf
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\bin\Debug\northwnd_log.ldf
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\bin\Debug\North Wind Project.exe.config
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\bin\Debug\North Wind Project.exe
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\bin\Debug\North Wind Project.pdb
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\obj\Debug\North Wind Project.csprojAssemblyReference.cache
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\obj\Debug\North_Wind_Project.Form1.resources
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\obj\Debug\North_Wind_Project.Properties.Resources.resources
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\obj\Debug\North Wind Project.csproj.GenerateResource.cache
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\obj\Debug\North Wind Project.csproj.CoreCompileInputs.cache
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\obj\Debug\North Wind Project.exe
+C:\Users\mabservi\source\repos\North Wind Project\North Wind Project\obj\Debug\North Wind Project.pdb
+D:\IT\North Wind Project\North Wind Project\bin\Debug\northwnd.mdf
+D:\IT\North Wind Project\North Wind Project\bin\Debug\northwnd_log.ldf
+D:\IT\North Wind Project\North Wind Project\bin\Debug\North Wind Project.exe.config
+D:\IT\North Wind Project\North Wind Project\bin\Debug\North Wind Project.exe
+D:\IT\North Wind Project\North Wind Project\bin\Debug\North Wind Project.pdb
+D:\IT\North Wind Project\North Wind Project\obj\Debug\North Wind Project.csprojAssemblyReference.cache
+D:\IT\North Wind Project\North Wind Project\obj\Debug\North_Wind_Project.Form1.resources
+D:\IT\North Wind Project\North Wind Project\obj\Debug\North_Wind_Project.Properties.Resources.resources
+D:\IT\North Wind Project\North Wind Project\obj\Debug\North Wind Project.csproj.GenerateResource.cache
+D:\IT\North Wind Project\North Wind Project\obj\Debug\North Wind Project.csproj.CoreCompileInputs.cache
+D:\IT\North Wind Project\North Wind Project\obj\Debug\North Wind Project.exe
+D:\IT\North Wind Project\North Wind Project\obj\Debug\North Wind Project.pdb
